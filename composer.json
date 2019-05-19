@@ -1,0 +1,21 @@
+{
+    "name": "swoole/upload",
+    "description": "composer包 建立",
+    "type": "1",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "woainiee520",
+            "email": "2429069309@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+    "psr-4": {
+        "Swoole\\": "src/"
+    }
+}
+}
